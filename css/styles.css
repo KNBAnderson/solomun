@@ -23,3 +23,15 @@ h1 {
   text-align: center;
   font-family: 'Rock Salt', cursive;
 }
+
+div.tour-container ul li span {
+  color: red;
+}
+
+li.london {
+  color: blue;
+}
+
+li.berlin {
+  color: orange;
+}
